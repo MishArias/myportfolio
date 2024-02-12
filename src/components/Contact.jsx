@@ -10,7 +10,7 @@ const Contact = () => {
       <div className="flex flex-col p-4 justify-center max-w-screen-lg mx-auto md:w-full md:h-screen">
         <div className="pb-8">
           <p className="text-3xl font-bold border-b-4 border-pink-500 mb-6">
-            Contact me
+            Contact me.
           </p>
           <p className="text-xl py-6 font-bold">Submit the form below to get in touch with me</p>
         </div>
