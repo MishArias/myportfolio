@@ -5,8 +5,6 @@ import javascript from "../assets/javascript.png";
 import Net from "../assets/Net.png";
 import MySQL from "../assets/MySQL.png";
 import Angular from "../assets/Angular.png";
-import tailwind from "../assets/tailwind.png";
-import reactimage from "../assets/reactimage.png";
 import Wordpress from "../assets/Wordpress.png";
 import GitHub from "../assets/GitHub.png";
 

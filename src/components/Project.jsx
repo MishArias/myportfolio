@@ -1,6 +1,5 @@
 import React from "react";
 import Banner2 from "..//assets/banner2.png";
-import cookitGif from "../assets/Cookit.gif";
 import Homebackground from "..//assets/homebackground.png";
 
 const Projects = () => {
